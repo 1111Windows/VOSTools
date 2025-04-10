@@ -1,8 +1,8 @@
 # VOSTools
-ValidationOS工具箱
+ValidationOS(中文名:验证OS)工具箱
 
 
-为了最佳使用体验,你的ValidationOS版本不能低于24H2,并且已经添加了以下可选功能:
+为了最佳使用体验,你的ValidationOS(验证OS)版本不能低于24H2,并且已经添加了以下可选功能:
 
 应用程序和应用程序支持
 
