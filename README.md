@@ -10,7 +10,7 @@ ValidationOS工具箱
 
 PowerShell
 
-[有关这些东西的信息,请点击此处查看微软官网上的说明](https://wbgx.1win.eu.org)
+[有关这些东西的信息,请点击此处查看微软官网上的说明](https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/validation-os-feature-packages)
 
 [ValidationOS是什么](https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/validation-os-overview)
 
