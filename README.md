@@ -18,4 +18,4 @@ PowerShell
 
 [ValidationOS是什么(bilibili)](https://www.bilibili.com/video/BV1kwoAYtECK/)
 
-[ValidationOS是什么(youtube](https://youtu.be/cbUq0fVLxJ8)
+[ValidationOS是什么(youtube)](https://youtu.be/cbUq0fVLxJ8)
