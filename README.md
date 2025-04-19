@@ -14,6 +14,8 @@ PowerShell
 
 [ValidationOS的官方文档](https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/validation-os-overview)
 
-[ValidationOS是什么](https://www.bilibili.com/video/BV1kwoAYtECK/)
+(上面这个链接是VakidationOS的官方文档,里面有下载链接(下载页面与早期的ValidationOS的下载页面没有区别,但是你现在从下载页面下载到的镜像就是ValidationOS的24H2新版本)
 
-(上面这个链接可以说是VakidationOS的官网,里面有下载链接(下载页面与早期的ValidationOS的下载页面没有区别,但是你现在从下载页面下载到的镜像就是ValidationOS的24H2新版本)
+[ValidationOS是什么(bilibili)](https://www.bilibili.com/video/BV1kwoAYtECK/)
+
+[ValidationOS是什么(youtube](https://youtu.be/cbUq0fVLxJ8)
